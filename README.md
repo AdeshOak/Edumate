@@ -1,5 +1,4 @@
 # Edumate
-<<<<<<< HEAD
 LMS developed using React, NodeJS, PostgreSQL
 =======
 
