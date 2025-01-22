@@ -50,4 +50,4 @@ tbd
 > git commit -am "msg"
 > git push heroku master
 ```
->>>>>>> 8da412b (Initial commit with basic project setup)
+
